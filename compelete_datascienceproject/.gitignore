@@ -1,0 +1,4 @@
+venv/
+logs/
+artifacts/data_ingestion
+artifacts/data_transformation
